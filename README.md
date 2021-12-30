@@ -3,3 +3,4 @@
 ```English``` ``` 中文``` ```Français```
 
 # Probability Density Estimation (概率密度估计)
+## * Kernel/k-Nearest Neighborhood Density Estimators
