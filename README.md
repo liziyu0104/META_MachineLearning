@@ -2,7 +2,7 @@
 
 ```English``` ``` 中文``` ```Français```
 
-# Probability Density Estimation (概率密度估计)
+# Probability Density Estimation-Non-Parametric Methods(概率密度估计-非参数方法)
 ## 1. Kernel / k-Nearest Neighborhood Density Estimators (核密度估计 /  K邻近密度估计)
 ```python
 python apply.py
