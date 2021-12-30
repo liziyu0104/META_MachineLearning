@@ -4,6 +4,8 @@
 
 # Probability Density Estimation-Non-Parametric Methods(概率密度估计-非参数方法)
 ## 1. Kernel / k-Nearest Neighborhood Density Estimators (核密度估计 /  K邻近密度估计)
+* KDE:  Fix volume, determine number of points in this volume
+* K-NN: Fix the number of points and increase the volume to include this number of points
 ```python
 python apply.py
 ```
