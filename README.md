@@ -12,7 +12,7 @@ python apply.py
 ![R](https://raw.githubusercontent.com/liziyu0104/META_MachineLearning/main/Probability_Density_Estimation/result/R1.png)
 
 ## 2. Expectation Maximization (EM) Algo for Gaussian Mixture Model (GMM) （应用于高斯混合模型的期望最大化算法）
-* This algo is sensible to init, we can use k-means fist for some steps
+* EM algo is sensible to init, we can use k-means fist for some steps ```kmeans = KMeans(n_clusters = K, n_init = 10).fit(data)```
 ```python
 python apply.py
 ```
